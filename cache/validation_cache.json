@@ -16,7 +16,7 @@
   },
   "http://r.jdshipin.com/WtYt3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -31,7 +31,7 @@
   },
   "http://r.jdshipin.com/cCCzW": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -39,7 +39,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -54,7 +54,7 @@
   },
   "http://r.jdshipin.com/0Rp07": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -62,7 +62,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -92,7 +92,7 @@
   },
   "http://r.jdshipin.com/yDoTN": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -100,7 +100,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fhhk": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -126,14 +126,14 @@
   },
   "https://o11.163189.xyz/stream/tvb/mzt/": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=mzt2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -149,7 +149,7 @@
   },
   "http://php.jdshipin.com/PLTV/iptv.php?id=mzt": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -157,7 +157,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=mzt": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -165,7 +165,7 @@
   },
   "http://php.jdshipin.com/PLTV/iptv.php?id=mzt2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -173,7 +173,7 @@
   },
   "http://r.jdshipin.com/ZQ4kN": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -188,7 +188,7 @@
   },
   "http://r.jdshipin.com/GeWKr?id=mzt720": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -215,7 +215,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=tvbp": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -223,14 +223,14 @@
   },
   "http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=j2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -238,7 +238,7 @@
   },
   "http://r.jdshipin.com/Nr5jq": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -246,7 +246,7 @@
   },
   "http://r.jdshipin.com/Voac4": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -254,14 +254,14 @@
   },
   "https://o11.163189.xyz/stream/live/tvbxh/": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=xinghe": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -269,7 +269,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -277,7 +277,7 @@
   },
   "http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
@@ -290,7 +290,7 @@
   },
   "http://r.jdshipin.com/sXuuD": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -304,7 +304,7 @@
   },
   "http://fm1077.serv00.net/Smart.php?id=tvbxinhe_twn": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
@@ -318,14 +318,14 @@
   },
   "https://o11.163189.xyz/stream/tvb/fct/": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://r.jdshipin.com/GeWKr?id=fct720": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -333,7 +333,7 @@
   },
   "http://r.jdshipin.com/GeWKr": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -341,7 +341,7 @@
   },
   "http://r.jdshipin.com/GeWKr?id=fct406": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -349,7 +349,7 @@
   },
   "http://r.jdshipin.com/qClQf": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -357,7 +357,7 @@
   },
   "http://r.jdshipin.com/qrfbg": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -365,28 +365,28 @@
   },
   "http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://fm1077.serv00.net/Smart.php?id=tvbs": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://fm1077.serv00.net/Smart.php?id=tvbs_n": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
@@ -406,7 +406,7 @@
   },
   "http://r.jdshipin.com/CkuBd": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -414,7 +414,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=wxxw": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -422,7 +422,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -458,7 +458,7 @@
   },
   "http://r.jdshipin.com/vSJvl": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -466,7 +466,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=viutv2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -474,7 +474,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=viutv": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -497,7 +497,7 @@
   },
   "http://r.jdshipin.com/TcKr2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -838,7 +838,7 @@
   },
   "http://r.jdshipin.com/nWaZO": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -846,7 +846,7 @@
   },
   "http://r.jdshipin.com/sE5vO": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "廣東",
     "quality_score": 0,
@@ -854,7 +854,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=gdzj": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "廣東",
     "quality_score": 0,
@@ -862,15 +862,15 @@
   },
   "http://r.jdshipin.com/sFw4S": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "港澳代理",
+    "source": "香港",
     "quality_score": 0,
     "reason": "proxy_blocked"
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=99c924&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -878,7 +878,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c664de&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -886,7 +886,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c55aa9&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -894,7 +894,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=937959&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -902,7 +902,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c04e52&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -910,7 +910,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a75dd8&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -918,7 +918,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6ea4a7&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -926,7 +926,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=162c2e&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -934,7 +934,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=12c41f&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -942,7 +942,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0a965e&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -950,7 +950,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e2e5de&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -958,7 +958,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6abd61&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -966,7 +966,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f50b7a&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -974,7 +974,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e7defd&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -982,7 +982,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d3ab30&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -990,7 +990,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=60c5f7&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️浙江频道",
     "quality_score": 0,
@@ -998,7 +998,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=213e53&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️福建频道",
     "quality_score": 0,
@@ -1006,7 +1006,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=07c070&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️安徽频道",
     "quality_score": 0,
@@ -1014,7 +1014,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=928bc0&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️安徽频道",
     "quality_score": 0,
@@ -1022,7 +1022,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab89d7&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️安徽频道",
     "quality_score": 0,
@@ -1030,7 +1030,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8556fd&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️安徽频道",
     "quality_score": 0,
@@ -1038,7 +1038,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f9b7ca&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️安徽频道",
     "quality_score": 0,
@@ -1046,7 +1046,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a51e82&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️安徽频道",
     "quality_score": 0,
@@ -1054,7 +1054,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8095cf&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️吉林频道",
     "quality_score": 0,
@@ -1062,7 +1062,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b17091&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️吉林频道",
     "quality_score": 0,
@@ -1070,7 +1070,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9a925c&tk=6949f8ce7202": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️吉林频道",
     "quality_score": 0,
@@ -1078,7 +1078,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fct2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -1086,7 +1086,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "🌊港·澳·台",
     "quality_score": 0,
@@ -1101,7 +1101,7 @@
   },
   "http://php.jdshipin.com/PLTV/iptv.php?id=fhzx": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "🌊港·澳·台",
     "quality_score": 0,
@@ -1116,7 +1116,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "🌊港·澳·台",
     "quality_score": 0,
@@ -2403,7 +2403,7 @@
   },
   "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 100
@@ -3058,7 +3058,7 @@
   },
   "https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
@@ -3077,7 +3077,7 @@
   },
   "https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
@@ -3366,7 +3366,7 @@
   },
   "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Lifestyle",
     "quality_score": 100
@@ -5047,7 +5047,7 @@
   },
   "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 100
@@ -5882,42 +5882,42 @@
   },
   "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
   },
   "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
   },
   "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
   },
   "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
   },
   "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "News",
     "quality_score": 100
   },
   "https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
@@ -6170,7 +6170,7 @@
   },
   "https://fflive-darya-educationtv.b-cdn.net/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 100
@@ -6525,21 +6525,21 @@
   },
   "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment",
     "quality_score": 100
   },
   "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "News",
     "quality_score": 100
   },
   "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Sports",
     "quality_score": 100
@@ -6648,7 +6648,7 @@
   },
   "https://pb-tdmd4j4zqfssc.akamaized.net/The_Jack_Hanna_Channel.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
@@ -7561,14 +7561,14 @@
   },
   "https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 100
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fct3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -7576,7 +7576,7 @@
   },
   "http://r.jdshipin.com/n90gt": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -7622,7 +7622,7 @@
   },
   "http://r.jdshipin.com/GeWKr?id=fct406$LR•IPV4『线路30』": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 0,
@@ -7630,7 +7630,7 @@
   },
   "http://r.jdshipin.com/GeWKr?id=fct720$LR•IPV4『线路31』": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 0,
@@ -7644,7 +7644,7 @@
   },
   "http://r.jdshipin.com/jUx8K": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -7664,36 +7664,36 @@
   },
   "http://cdn.163189.xyz/live/hoy/stream.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 100
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=hoytv": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "香港",
+    "source": "港澳台频道",
     "quality_score": 0,
     "reason": "proxy_blocked"
   },
   "http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 100
   },
   "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 100
   },
   "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 100
@@ -7767,7 +7767,7 @@
   },
   "http://r.jdshipin.com/NfC0f": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -7775,7 +7775,7 @@
   },
   "http://r.jdshipin.com/n2YZI": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "澳門",
     "quality_score": 0,
@@ -7783,7 +7783,7 @@
   },
   "http://r.jdshipin.com/QFhCq": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "澳門",
     "quality_score": 0,
@@ -7791,7 +7791,7 @@
   },
   "http://r.jdshipin.com/62WM7": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -7799,7 +7799,7 @@
   },
   "http://r.jdshipin.com/ndGgS": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -7807,7 +7807,7 @@
   },
   "http://r.jdshipin.com/thuYX": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -7815,7 +7815,7 @@
   },
   "http://r.jdshipin.com/LiYdg": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "廣東",
     "quality_score": 0,
@@ -7823,15 +7823,15 @@
   },
   "http://r.jdshipin.com/iR6Gq": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "港澳代理",
+    "source": "廣東",
     "quality_score": 0,
     "reason": "proxy_blocked"
   },
   "http://r.jdshipin.com/snhya": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -7839,7 +7839,7 @@
   },
   "http://r.jdshipin.com/ln4xk": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -7847,7 +7847,7 @@
   },
   "http://r.jdshipin.com/Lqdwf": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳代理",
     "quality_score": 0,
@@ -7862,7 +7862,7 @@
   },
   "http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 100
@@ -7876,7 +7876,7 @@
   },
   "http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 100
@@ -7890,14 +7890,14 @@
   },
   "https://cdn5.163189.xyz/live/rthk31/stream.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 100
   },
   "https://cdn5.163189.xyz/live/rthk32/stream.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 100
@@ -7939,7 +7939,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=aod": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -7947,7 +7947,7 @@
   },
   "http://php.jdshipin.com/smt.php?id=AEC": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -7955,7 +7955,7 @@
   },
   "http://php.jdshipin.com/smt.php?id=Qiyi": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -7963,7 +7963,7 @@
   },
   "http://php.jdshipin.com/smt.php?id=Quanjia": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -7971,7 +7971,7 @@
   },
   "http://php.jdshipin.com/smt.php?id=Huahee": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -7979,7 +7979,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=huali2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -7987,7 +7987,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=yzwx": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -7995,7 +7995,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -8003,7 +8003,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -8245,7 +8245,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=gdty": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "廣東",
     "quality_score": 0,
@@ -8285,7 +8285,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fct": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -8317,7 +8317,7 @@
   },
   "http://php.jdshipin.com/TVOD/iptv.php?id=fct4": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -8374,7 +8374,7 @@
   },
   "http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "台灣",
     "quality_score": 100
@@ -8447,7 +8447,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4539&tk=e640d0a1bf70": {
     "valid": false,
-    "last_validated": "2026-04-28",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -9795,7 +9795,7 @@
   },
   "http://php.jdshipin.com:8880/smt.php?id=Xinhe": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -9881,7 +9881,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -9969,9 +9969,9 @@
   },
   "https://cdn6.101.qzz.io/163189/tvbxh": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "香港",
+    "source": "港澳台",
     "quality_score": 62
   },
   "https://stream1.freetv.fun/08634ae79ac958d456b3a36629c9f5c7a90eb67044c3c672a6b5442c413821aa.m3u8": {
@@ -10006,7 +10006,7 @@
   },
   "http://cdn.132.us.kg/live/tvbp/stream.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -10142,7 +10142,7 @@
   },
   "https://stream1.freetv.fun/tvb-j2-2.ctv": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -10191,7 +10191,7 @@
   },
   "https://stream1.freetv.fun/tvb-j2-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -10310,7 +10310,7 @@
   },
   "https://t.freetv.fun/live/tvb-plus-5.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -10437,7 +10437,7 @@
   },
   "https://t.freetv.fun/live/tvb-pluschao-qing.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -10523,9 +10523,9 @@
   },
   "https://t.freetv.fun/live/tvb-plus-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "綜藝",
+    "source": "港澳台",
     "quality_score": 62
   },
   "https://t.freetv.fun/live/shan-xi-wei-shi-10-1.m3u8": {
@@ -10603,9 +10603,9 @@
   },
   "https://t.freetv.fun/live/tvb-plus-2.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "綜藝",
+    "source": "港澳台",
     "quality_score": 62
   },
   "https://t.freetv.fun/live/shan-xi-wei-shi-2.m3u8": {
@@ -10712,7 +10712,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -10756,7 +10756,7 @@
   },
   "http://php.jdshipin.com:8880/iptv.php?id=mzt": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 0,
@@ -13888,7 +13888,7 @@
   },
   "https://t.freetv.fun/live/viutv-ee.php": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -14074,7 +14074,7 @@
   },
   "https://t.freetv.fun/live/viutv.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -14123,7 +14123,7 @@
   },
   "https://t.freetv.fun/live/viutv-b.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -14185,7 +14185,7 @@
   },
   "https://t.freetv.fun/live/viutv-7.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -14289,9 +14289,9 @@
   },
   "https://t.freetv.fun/live/viutvgao-qing.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "綜藝",
+    "source": "港澳台",
     "quality_score": 62
   },
   "https://t.freetv.fun/live/yun-nan-wei-shi-18.m3u8": {
@@ -14338,7 +14338,7 @@
   },
   "https://t.freetv.fun/live/viutv6gao-qing.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -14400,9 +14400,9 @@
   },
   "https://t.freetv.fun/live/viutv-plus.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "綜藝",
+    "source": "港澳台",
     "quality_score": 62
   },
   "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8": {
@@ -14548,7 +14548,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -14706,7 +14706,7 @@
   },
   "http://php.jdshipin.com:8880/smt.php?id=inews_twn": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -15179,7 +15179,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -16526,7 +16526,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV17&line=5": {
     "valid": true,
-    "last_validated": "2026-04-21",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -16558,7 +16558,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV17&line=3": {
     "valid": true,
-    "last_validated": "2026-04-21",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -18206,7 +18206,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -19434,9 +19434,9 @@
   },
   "https://t.freetv.fun/live/cctv-4kgao-qing-3.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-25",
+    "last_validated": "2026-05-03",
     "tier": "china",
-    "source": "綜合",
+    "source": "央视频道",
     "quality_score": 62
   },
   "http://dd.ddzb.fun/php/migu.php?id=cctv15": {
@@ -19777,7 +19777,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342429": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "电影频道",
     "quality_score": 0,
@@ -19803,7 +19803,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11352935": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -19903,7 +19903,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11602071": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "电视剧频道",
     "quality_score": 0,
@@ -19949,7 +19949,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342439": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "电视剧频道",
     "quality_score": 0,
@@ -20773,7 +20773,7 @@
   },
   "http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -21397,7 +21397,7 @@
   },
   "http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "国际台",
     "quality_score": 62
@@ -21910,7 +21910,7 @@
   },
   "http://gcw.bdcdn.shoujiduoduo.com/v/190507/bc0fcf2785f707597273caf592c9a78f.mp4": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "戏曲频道",
     "quality_score": 62
@@ -22595,7 +22595,7 @@
   },
   "http://php.jdshipin.com:8880/iptv.php": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 0,
@@ -22921,7 +22921,7 @@
   },
   "http://php.jdshipin.com:8880/iptv.php?id=hndsj": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "湖南频道",
     "quality_score": 0,
@@ -23097,7 +23097,7 @@
   },
   "http://php.jdshipin.com:8880/iptv.php?id=hngg": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "湖南频道",
     "quality_score": 0,
@@ -62178,7 +62178,7 @@
   },
   "https://t.freetv.fun/live/cctv-1zong-he-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "兒童",
     "quality_score": 62
@@ -63195,7 +63195,7 @@
   },
   "https://t.freetv.fun/live/viutv6-plus.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -63987,7 +63987,7 @@
   },
   "https://t.freetv.fun/live/cctv-15yin-le-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "音樂",
     "quality_score": 62
@@ -64076,7 +64076,7 @@
   },
   "https://t.freetv.fun/live/cctv-14shao-er.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "兒童",
     "quality_score": 62
@@ -64881,7 +64881,7 @@
   },
   "https://t.freetv.fun/live/cctv5-plus-3.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "運動",
     "quality_score": 62
@@ -68785,7 +68785,7 @@
   },
   "https://t.freetv.fun/live/hoy-tv-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "新聞",
     "quality_score": 62
@@ -71667,7 +71667,7 @@
   },
   "https://t.freetv.fun/live/rthk-32.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "新聞",
     "quality_score": 62
@@ -74032,7 +74032,7 @@
   },
   "https://t.freetv.fun/live/tvbsya-zhou-6.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74243,7 +74243,7 @@
   },
   "https://t.freetv.fun/live/tvbsya-zhou-28.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜合",
     "quality_score": 62
@@ -74262,7 +74262,7 @@
   },
   "https://t.freetv.fun/live/tvbsya-zhou.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74275,14 +74275,14 @@
   },
   "https://t.freetv.fun/live/tvbsya-zhou-4.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
   },
   "https://t.freetv.fun/live/tvbsya-zhou-5.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74301,7 +74301,7 @@
   },
   "https://t.freetv.fun/live/tvbsya-zhou-7.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74314,7 +74314,7 @@
   },
   "https://t.freetv.fun/live/tvbsya-zhou-2.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74334,7 +74334,7 @@
   },
   "https://t.freetv.fun/live/tvbxing-he.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74354,7 +74354,7 @@
   },
   "https://t.freetv.fun/live/tvbxing-he-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74565,7 +74565,7 @@
   },
   "https://t.freetv.fun/live/tvbs-asia.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜合",
     "quality_score": 62
@@ -74578,7 +74578,7 @@
   },
   "https://t.freetv.fun/live/tvbsya-zhou-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -74629,7 +74629,7 @@
   },
   "https://t.freetv.fun/live/tvbya-zhou-ju-tai.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -75729,7 +75729,7 @@
   },
   "https://t.freetv.fun/live/tvb-viet-nam.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜合",
     "quality_score": 62
@@ -75779,7 +75779,7 @@
   },
   "https://t.freetv.fun/live/viutvsix.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -76105,7 +76105,7 @@
   },
   "https://t.freetv.fun/live/viutvsix-ee.php": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -76154,7 +76154,7 @@
   },
   "https://t.freetv.fun/live/viutvsix-b.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -86940,7 +86940,7 @@
   },
   "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
@@ -87679,7 +87679,7 @@
   },
   "https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️福建频道",
     "quality_score": 62
@@ -87974,7 +87974,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -88126,7 +88126,7 @@
   },
   "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "🎬电影频道",
     "quality_score": 62
@@ -89015,7 +89015,7 @@
   },
   "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment;Family;General",
     "quality_score": 62
@@ -89262,7 +89262,7 @@
   },
   "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -89629,7 +89629,7 @@
   },
   "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -90188,7 +90188,7 @@
   },
   "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "News",
     "quality_score": 62
@@ -90555,7 +90555,7 @@
   },
   "http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=jykt": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "🪁动画频道",
     "quality_score": 62
@@ -90640,21 +90640,21 @@
   },
   "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Movies",
     "quality_score": 62
   },
   "http://69.64.57.208/africable/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
   },
   "https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -90673,7 +90673,7 @@
   },
   "https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -91064,7 +91064,7 @@
   },
   "https://stream.ecable.tv/afrobeats/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -92326,7 +92326,7 @@
   },
   "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -92789,7 +92789,7 @@
   },
   "https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -93120,7 +93120,7 @@
   },
   "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General;Public",
     "quality_score": 62
@@ -93379,7 +93379,7 @@
   },
   "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General;Public",
     "quality_score": 62
@@ -93560,7 +93560,7 @@
   },
   "https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -94317,7 +94317,7 @@
   },
   "https://stream.iptvservice.eu/hls/balatontv.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -94804,7 +94804,7 @@
   },
   "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -95123,7 +95123,7 @@
   },
   "https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -95160,7 +95160,7 @@
   },
   "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -95473,7 +95473,7 @@
   },
   "https://reflect-batv.cablecast.tv/live-3/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -95486,7 +95486,7 @@
   },
   "https://reflect-batv.cablecast.tv/live-5/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -96111,7 +96111,7 @@
   },
   "https://buenapark.cablecast.tv/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -96250,7 +96250,7 @@
   },
   "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General;Religious",
     "quality_score": 62
@@ -96281,7 +96281,7 @@
   },
   "https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -96312,14 +96312,14 @@
   },
   "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Culture",
     "quality_score": 62
   },
   "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Culture",
     "quality_score": 62
@@ -96692,7 +96692,7 @@
   },
   "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General;News",
     "quality_score": 62
@@ -96729,7 +96729,7 @@
   },
   "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -97167,8 +97167,8 @@
     "source": "Education;Science"
   },
   "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8": {
-    "valid": true,
-    "last_validated": "2026-05-02",
+    "valid": false,
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -97289,7 +97289,7 @@
   },
   "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -97493,8 +97493,8 @@
     "source": "Undefined"
   },
   "https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8": {
-    "valid": true,
-    "last_validated": "2026-05-02",
+    "valid": false,
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -97573,7 +97573,7 @@
   },
   "https://movil.ejeserver.com/live/mundovisiontv.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -97790,7 +97790,7 @@
   },
   "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -98601,7 +98601,7 @@
   },
   "http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -98851,7 +98851,7 @@
   },
   "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -99680,7 +99680,7 @@
   },
   "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -99837,7 +99837,7 @@
   },
   "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment",
     "quality_score": 62
@@ -100102,7 +100102,7 @@
   },
   "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -100373,7 +100373,7 @@
   },
   "https://concordca.cablecast.tv/live/stream-2/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -100596,7 +100596,7 @@
   },
   "https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -100627,14 +100627,14 @@
   },
   "https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
   },
   "https://irctv.cablecast.tv/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -100677,7 +100677,7 @@
   },
   "https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -100744,7 +100744,7 @@
   },
   "https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -100973,7 +100973,7 @@
   },
   "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -100992,7 +100992,7 @@
   },
   "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -101275,7 +101275,7 @@
   },
   "https://live.ctvbolivia.com/hls/ctv.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -102368,7 +102368,7 @@
   },
   "https://tv.webmedialive.com/unciontv/live/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -102921,7 +102921,7 @@
   },
   "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -103720,7 +103720,7 @@
   },
   "https://tplay.live/out/bangladesh/ekhontv.index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Business",
     "quality_score": 62
@@ -105209,7 +105209,7 @@
   },
   "https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -105294,7 +105294,7 @@
   },
   "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -105433,7 +105433,7 @@
   },
   "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Lifestyle",
     "quality_score": 62
@@ -105494,7 +105494,7 @@
   },
   "https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -105981,7 +105981,7 @@
   },
   "https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -106060,7 +106060,7 @@
   },
   "https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -106295,7 +106295,7 @@
   },
   "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -106530,7 +106530,7 @@
   },
   "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -106555,7 +106555,7 @@
   },
   "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -106592,7 +106592,7 @@
   },
   "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -106773,7 +106773,7 @@
   },
   "https://master.tucableip.com/ftvhd/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Sports",
     "quality_score": 62
@@ -106984,7 +106984,7 @@
   },
   "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -107321,7 +107321,7 @@
   },
   "https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -107664,7 +107664,7 @@
   },
   "https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -108295,7 +108295,7 @@
   },
   "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -109365,7 +109365,7 @@
   },
   "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Business",
     "quality_score": 62
@@ -109390,7 +109390,7 @@
   },
   "https://hoytv-live-stream.hoy.tv/ch78/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -109409,7 +109409,7 @@
   },
   "https://hoytv-live-stream.hoy.tv/ch77/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -109542,7 +109542,7 @@
   },
   "https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -110461,7 +110461,7 @@
   },
   "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Lifestyle",
     "quality_score": 62
@@ -110696,7 +110696,7 @@
   },
   "https://video2.lhdserver.es/cableperu/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -111123,7 +111123,7 @@
   },
   "https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -111136,7 +111136,7 @@
   },
   "https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -111185,7 +111185,7 @@
   },
   "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -112218,7 +112218,7 @@
   },
   "https://brightonco.cablecast.tv/live-4/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -112303,7 +112303,7 @@
   },
   "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -113000,7 +113000,7 @@
   },
   "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -113661,7 +113661,7 @@
   },
   "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -113890,7 +113890,7 @@
   },
   "https://reflect-live-lawndale.cablecast.tv/live-4/live/live.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -113969,7 +113969,7 @@
   },
   "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment",
     "quality_score": 62
@@ -114360,7 +114360,7 @@
   },
   "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -114463,7 +114463,7 @@
   },
   "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -114926,7 +114926,7 @@
   },
   "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -115209,7 +115209,7 @@
   },
   "https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -115618,7 +115618,7 @@
   },
   "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -115823,7 +115823,7 @@
   },
   "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -116316,7 +116316,7 @@
   },
   "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment",
     "quality_score": 62
@@ -116563,7 +116563,7 @@
   },
   "http://mytv.dothome.co.kr/ch/catv/26.php": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment",
     "quality_score": 62
@@ -116588,7 +116588,7 @@
   },
   "http://mytv.dothome.co.kr/ch/catv/28.php": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -117033,7 +117033,7 @@
   },
   "https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -117250,7 +117250,7 @@
   },
   "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -118481,7 +118481,7 @@
   },
   "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -118908,7 +118908,7 @@
   },
   "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -119659,7 +119659,7 @@
   },
   "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "News",
     "quality_score": 62
@@ -119870,7 +119870,7 @@
   },
   "https://reflect-npa.cablecast.tv/live-8/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -119889,7 +119889,7 @@
   },
   "https://reflect-npa.cablecast.tv/live-9/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education;Kids",
     "quality_score": 62
@@ -119950,7 +119950,7 @@
   },
   "https://reflect-npa.cablecast.tv/live-6/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -120773,7 +120773,7 @@
   },
   "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -121044,7 +121044,7 @@
   },
   "https://videostream.jpbgdigital.com/NOWTV.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -121303,7 +121303,7 @@
   },
   "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 62
@@ -121334,7 +121334,7 @@
   },
   "https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Culture",
     "quality_score": 62
@@ -122133,7 +122133,7 @@
   },
   "https://mumt03.tangotv.in/ONTV/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -122164,7 +122164,7 @@
   },
   "https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Shop",
     "quality_score": 62
@@ -122309,7 +122309,7 @@
   },
   "https://endour.net/hls/One_nationtv/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Culture",
     "quality_score": 62
@@ -123167,8 +123167,8 @@
     "source": "Entertainment"
   },
   "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8": {
-    "valid": true,
-    "last_validated": "2026-05-02",
+    "valid": false,
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -126121,7 +126121,7 @@
   },
   "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Culture",
     "quality_score": 62
@@ -126422,7 +126422,7 @@
   },
   "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -126537,7 +126537,7 @@
   },
   "https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -126628,7 +126628,7 @@
   },
   "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -127319,7 +127319,7 @@
   },
   "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -128712,7 +128712,7 @@
   },
   "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -128737,7 +128737,7 @@
   },
   "https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -128900,7 +128900,7 @@
   },
   "https://master.tucableip.com/redtvshop/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Shop",
     "quality_score": 62
@@ -129039,7 +129039,7 @@
   },
   "https://master.tucableip.com/muxredunosc/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -130631,7 +130631,7 @@
   },
   "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -130644,7 +130644,7 @@
   },
   "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Music",
     "quality_score": 62
@@ -130933,7 +130933,7 @@
   },
   "https://ktismaservers.in:3902/live/salvationtvlive.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -131186,7 +131186,7 @@
   },
   "https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "News",
     "quality_score": 62
@@ -131427,7 +131427,7 @@
   },
   "https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -131560,7 +131560,7 @@
   },
   "https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -131579,7 +131579,7 @@
   },
   "https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -132048,7 +132048,7 @@
   },
   "https://soportedvb.click:3668/live/simavisiontvlive.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -132343,7 +132343,7 @@
   },
   "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -132620,7 +132620,7 @@
   },
   "https://ss2.tvrdomi.com:1936/soluciontv/soluciontv/playlist.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -133215,7 +133215,7 @@
   },
   "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment;Family",
     "quality_score": 62
@@ -133588,7 +133588,7 @@
   },
   "https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -134951,7 +134951,7 @@
   },
   "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -136704,7 +136704,7 @@
   },
   "https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -137095,7 +137095,7 @@
   },
   "http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -137132,7 +137132,7 @@
   },
   "https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -137769,7 +137769,7 @@
   },
   "https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -138430,7 +138430,7 @@
   },
   "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -138533,7 +138533,7 @@
   },
   "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -138726,7 +138726,7 @@
   },
   "https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 62
@@ -139255,7 +139255,7 @@
   },
   "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Entertainment;Family;General",
     "quality_score": 62
@@ -139556,7 +139556,7 @@
   },
   "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -139929,7 +139929,7 @@
   },
   "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "News",
     "quality_score": 62
@@ -139942,7 +139942,7 @@
   },
   "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -139991,7 +139991,7 @@
   },
   "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -140100,7 +140100,7 @@
   },
   "https://tvbrasil-stream.ebc.com.br/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -140875,7 +140875,7 @@
   },
   "http://seb.sason.top/sc/tvbsxw_fhd.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "News",
     "quality_score": 62
@@ -141716,7 +141716,7 @@
   },
   "http://95.105.193.219:88/hls/tvb.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -142155,7 +142155,7 @@
   },
   "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Family",
     "quality_score": 62
@@ -142594,7 +142594,7 @@
   },
   "https://master.tucableip.com/univalletv/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -142721,7 +142721,7 @@
   },
   "https://stream.unison.mx/hls/unisontvatem.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Education",
     "quality_score": 62
@@ -142968,7 +142968,7 @@
   },
   "https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -143041,7 +143041,7 @@
   },
   "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -143354,7 +143354,7 @@
   },
   "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -143571,7 +143571,7 @@
   },
   "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 62
@@ -144376,7 +144376,7 @@
   },
   "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Weather",
     "quality_score": 62
@@ -144533,7 +144533,7 @@
   },
   "https://whittier.cablecast.tv/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -144774,7 +144774,7 @@
   },
   "https://vallejo.cablecast.tv/live-3/live/live.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -144943,7 +144943,7 @@
   },
   "https://witn.cablecast.tv/live-4/live/live.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "General",
     "quality_score": 62
@@ -145580,7 +145580,7 @@
   },
   "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Legislative",
     "quality_score": 62
@@ -146973,7 +146973,7 @@
   },
   "http://php.jdshipin.com:8880/xztv.php?id=zy": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Undefined",
     "quality_score": 0,
@@ -149699,14 +149699,14 @@
   },
   "http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 62
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -149714,7 +149714,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -149776,15 +149776,15 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "香港",
+    "source": "港澳台频道",
     "quality_score": 0,
     "reason": "proxy_blocked"
   },
   "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 62
@@ -149849,7 +149849,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -149934,7 +149934,7 @@
   },
   "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 62
@@ -151077,7 +151077,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -152028,7 +152028,7 @@
   },
   "http://tvbox6.icu/tv/gdmzyd.php?id=104": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "数字频道",
     "quality_score": 62
@@ -152392,9 +152392,9 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=as": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "澳門",
+    "source": "港澳台频道",
     "quality_score": 0,
     "reason": "proxy_blocked"
   },
@@ -152406,9 +152406,9 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "港澳台频道",
+    "source": "澳門",
     "quality_score": 0,
     "reason": "proxy_blocked"
   },
@@ -152828,7 +152828,7 @@
   },
   "http://bxtv.3a.ink/api.php?id=tvbp": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 62
@@ -152853,7 +152853,7 @@
   },
   "http://mytv.cdn.com.mp/live/dsdy/stream.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 62
@@ -153232,7 +153232,7 @@
   },
   "http://php.jdshipin.com:8880/smt.php?id=Tvbclassic": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -153240,7 +153240,7 @@
   },
   "http://php.jdshipin.com:8880/smt.php?id=Celestial2": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -153248,7 +153248,7 @@
   },
   "http://php.jdshipin.com:8880/smt.php?id=Celestial": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台频道",
     "quality_score": 0,
@@ -153298,7 +153298,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342390": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153306,7 +153306,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342412": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153314,7 +153314,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342424": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153334,7 +153334,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342386": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153342,7 +153342,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29982675": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153350,7 +153350,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342435": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153358,7 +153358,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=21059581": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153366,7 +153366,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11601968": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153374,7 +153374,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=21059585": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153382,7 +153382,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11352876": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153390,7 +153390,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342421": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153398,7 +153398,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342427": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153406,7 +153406,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11352941": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153414,7 +153414,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=21059577": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153422,7 +153422,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11602058": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153430,7 +153430,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11352962": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153438,7 +153438,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11601986": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153446,7 +153446,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=21059574": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153454,7 +153454,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=30080229": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153462,7 +153462,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342414": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153470,7 +153470,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=21059579": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153520,7 +153520,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=11342428": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "虎牙影视",
     "quality_score": 0,
@@ -153569,8 +153569,8 @@
     "source": "Undefined"
   },
   "https://live.ottiptv.cc/bilibili/30837590": {
-    "valid": false,
-    "last_validated": "2026-05-02",
+    "valid": true,
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "动画频道",
     "quality_score": 62
@@ -153835,7 +153835,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465848": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153849,7 +153849,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465859": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153887,7 +153887,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465849": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153907,7 +153907,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465856": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153927,7 +153927,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465850": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153935,7 +153935,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23865171": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153943,7 +153943,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23824164": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153951,7 +153951,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23734246": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -153971,7 +153971,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23865142": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154021,7 +154021,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465857": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154035,7 +154035,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465854": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154049,7 +154049,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23903123": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154099,7 +154099,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23863804": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154107,7 +154107,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=30080233": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154163,7 +154163,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465851": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154171,7 +154171,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465855": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154179,7 +154179,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465853": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154193,7 +154193,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23863796": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154201,7 +154201,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465847": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154209,7 +154209,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23903183": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154217,7 +154217,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465852": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154231,7 +154231,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23865161": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154245,7 +154245,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=23734256": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154271,7 +154271,7 @@
   },
   "http://cdn.jdshipin.com:8880/huya.php?id=29465858": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "埋堆堆频道",
     "quality_score": 0,
@@ -154279,7 +154279,7 @@
   },
   "http://tvbox6.icu/tv/mgtv.php?id=316": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
@@ -154304,7 +154304,7 @@
   },
   "http://tvbox6.icu/tv/mgtv.php?id=287": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
@@ -154317,21 +154317,21 @@
   },
   "http://tvbox6.icu/tv/mgtv.php?id=229": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
   },
   "http://tvbox6.icu/tv/mgtv.php?id=221": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
   },
   "http://tvbox6.icu/tv/mgtv.php?id=261": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
@@ -154344,28 +154344,28 @@
   },
   "http://tvbox6.icu/tv/mgtv.php?id=280": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
   },
   "http://tvbox6.icu/tv/mgtv.php?id=484": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
   },
   "http://tvbox6.icu/tv/mgtv.php?id=346": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
   },
   "http://tvbox6.icu/tv/mgtv.php?id=344": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
@@ -154396,7 +154396,7 @@
   },
   "http://tvbox6.icu/tv/mgtv.php?id=254": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
@@ -154409,14 +154409,14 @@
   },
   "http://tvbox6.icu/tv/mgtv.php?id=269": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
   },
   "http://tvbox6.icu/tv/mgtv.php?id=230": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "☘️湖南频道",
     "quality_score": 62
@@ -157627,7 +157627,7 @@
   },
   "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -157635,7 +157635,7 @@
   },
   "http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 0,
@@ -157823,7 +157823,7 @@
   },
   "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "香港",
     "quality_score": 62
@@ -159284,7 +159284,7 @@
   },
   "http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -159386,7 +159386,7 @@
   },
   "http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -159435,7 +159435,7 @@
   },
   "https://stream1.freetv.fun/cctv-14-shao-er-2.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -159687,7 +159687,7 @@
   },
   "http://74.91.26.218:82/live/cctv9hd.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -159769,7 +159769,7 @@
   },
   "https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -159831,14 +159831,14 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV9&line=4": {
     "valid": true,
-    "last_validated": "2026-04-24",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
   },
   "https://iptv.catvod.com/live.php?id=CCTV9&line=3": {
     "valid": true,
-    "last_validated": "2026-04-24",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160097,7 +160097,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV13&line=4": {
     "valid": true,
-    "last_validated": "2026-04-20",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160207,14 +160207,14 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV13&line=2": {
     "valid": true,
-    "last_validated": "2026-04-20",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
   },
   "https://iptv.catvod.com/live.php?id=CCTV12&line=5": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160327,7 +160327,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV10&line=6": {
     "valid": true,
-    "last_validated": "2026-04-24",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160567,7 +160567,7 @@
   },
   "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160600,7 +160600,7 @@
   },
   "http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160701,7 +160701,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV17&line=6": {
     "valid": true,
-    "last_validated": "2026-04-21",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160720,7 +160720,7 @@
   },
   "http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009": {
     "valid": true,
-    "last_validated": "2026-04-20",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160740,7 +160740,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV11&line=4": {
     "valid": true,
-    "last_validated": "2026-04-20",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160768,21 +160768,21 @@
   },
   "http://74.91.26.218:82/live/cctv14hd.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-19",
+    "last_validated": "2026-05-03",
     "tier": "china",
-    "source": "央视频道",
+    "source": "特色",
     "quality_score": 62
   },
   "https://iptv.catvod.com/live.php?id=CCTV14&line=3": {
     "valid": true,
-    "last_validated": "2026-04-20",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
   },
   "https://iptv.catvod.com/live.php?id=CCTV14&line=4": {
     "valid": true,
-    "last_validated": "2026-04-21",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160802,28 +160802,28 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV14&line=6": {
     "valid": true,
-    "last_validated": "2026-04-21",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
   },
   "https://iptv.catvod.com/live.php?id=CCTV16": {
     "valid": true,
-    "last_validated": "2026-04-22",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
   },
   "https://iptv.catvod.com/live.php?id=CCTV16&line=1": {
     "valid": true,
-    "last_validated": "2026-04-21",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
   },
   "https://iptv.catvod.com/live.php?id=CCTV16&line=2": {
     "valid": true,
-    "last_validated": "2026-04-17",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160837,7 +160837,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV15": {
     "valid": true,
-    "last_validated": "2026-04-18",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -160869,7 +160869,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV15&line=5": {
     "valid": true,
-    "last_validated": "2026-04-18",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -162023,7 +162023,7 @@
   },
   "https://iptv.hiper25.com/TDM/video.m3u8": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -162072,7 +162072,7 @@
   },
   "http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -162217,7 +162217,7 @@
   },
   "http://live.cooltv.top/tv/tvb.php?id=2&hq": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -162404,7 +162404,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0401&tk=2aca1ad9a849$LR•IPV4『线路39』": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Hong Kong",
     "quality_score": 0,
@@ -162481,7 +162481,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8953&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-01",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162489,7 +162489,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8691&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162497,7 +162497,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0171&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-01",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162505,7 +162505,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1706&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-01",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162513,7 +162513,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3125&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-01",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162521,7 +162521,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4555&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-01",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162529,7 +162529,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6373&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162537,7 +162537,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2633&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162560,7 +162560,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7498&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-04-27",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -162584,7 +162584,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6540&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-04-30",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -163068,7 +163068,7 @@
   },
   "https://t.freetv.fun/live/tvbs.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜合",
     "quality_score": 62
@@ -167429,7 +167429,7 @@
   },
   "https://t.freetv.fun/live/tvbhuang-jin-hua-ju.php": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -168430,9 +168430,9 @@
   },
   "https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
-    "source": "特色",
+    "source": "央视台",
     "quality_score": 62
   },
   "http://80.194.62.172:50002/stream/channelid/404728797": {
@@ -173360,9 +173360,9 @@
   },
   "https://t.freetv.fun/live/cctv-4kgao-qing-8.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
-    "source": "央视频道",
+    "source": "綜合",
     "quality_score": 62
   },
   "https://stream1.freetv.fun/d0c576acbd75c27b59d5edc281ecbaa5deec8a9fd298dde789fde6f498f05e5a.m3u8": {
@@ -175278,7 +175278,7 @@
   },
   "https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-25",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "綜合",
     "quality_score": 62
@@ -175999,7 +175999,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2328&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -176023,7 +176023,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8079&tk=e503191f8e20": {
     "valid": false,
-    "last_validated": "2026-05-01",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -176047,7 +176047,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2448&tk=e503191f8e20": {
     "valid": false,
-    "last_validated": "2026-04-29",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -177490,7 +177490,7 @@
   },
   "https://t.freetv.fun/live/cctv1zong-he.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "新聞",
     "quality_score": 62
@@ -177581,7 +177581,7 @@
   },
   "https://t.freetv.fun/live/cctv10ke-jiao.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "其它",
     "quality_score": 62
@@ -187021,7 +187021,7 @@
   },
   "https://t.freetv.fun/live/tvbhua-li.php": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -187609,7 +187609,7 @@
   },
   "http://php.jdshipin.com/PLTV/iptv.php?id=gdty": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "廣東",
     "quality_score": 0,
@@ -187649,7 +187649,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4861&tk=a0c4f6cfaba3": {
     "valid": false,
-    "last_validated": "2026-04-27",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -187750,9 +187750,9 @@
   },
   "https://t.freetv.fun/live/tvbsxin-wen.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
-    "source": "新聞",
+    "source": "港澳台",
     "quality_score": 62
   },
   "http://1.197.204.20:85/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0": {
@@ -189922,7 +189922,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7418&tk=b53028476470": {
     "valid": false,
-    "last_validated": "2026-04-30",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -190746,7 +190746,7 @@
   },
   "https://t.freetv.fun/live/cctv11.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-25",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "電影",
     "quality_score": 62
@@ -190767,7 +190767,7 @@
   },
   "https://t.freetv.fun/live/cctv17.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-22",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "其它",
     "quality_score": 62
@@ -190879,7 +190879,7 @@
   },
   "https://t.freetv.fun/live/cctv12.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-22",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "綜合",
     "quality_score": 62
@@ -192136,7 +192136,7 @@
   },
   "https://t.freetv.fun/live/cctv2-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-25",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "新聞",
     "quality_score": 62
@@ -192199,7 +192199,7 @@
   },
   "https://t.freetv.fun/live/cctv5-plus.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-25",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "運動",
     "quality_score": 62
@@ -196911,7 +196911,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV13&line=7": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -196939,7 +196939,7 @@
   },
   "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "Religious",
     "quality_score": 100
@@ -196954,7 +196954,7 @@
   },
   "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5014&tk=e640d0a1bf70": {
     "valid": false,
-    "last_validated": "2026-04-19",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "特色",
     "quality_score": 0,
@@ -197718,7 +197718,7 @@
   },
   "https://stm.sinalmycn.com/19024/video.m3u8": {
     "valid": false,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "Sports",
     "quality_score": 62
@@ -197739,7 +197739,7 @@
   },
   "https://stm.sinalmycn.com/19025/video.m3u8": {
     "valid": false,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "Sports",
     "quality_score": 62
@@ -198505,7 +198505,7 @@
   },
   "https://t.freetv.fun/live/rthk-31.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -198519,7 +198519,7 @@
   },
   "https://t.freetv.fun/live/rthk-32-1.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "新聞",
     "quality_score": 62
@@ -202706,7 +202706,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV15&line=3": {
     "valid": true,
-    "last_validated": "2026-04-21",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -207961,7 +207961,7 @@
   },
   "https://iptv.catvod.com/live.php?id=CCTV17&line=1": {
     "valid": true,
-    "last_validated": "2026-04-24",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "特色",
     "quality_score": 62
@@ -208873,7 +208873,7 @@
   },
   "rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-tvbplus": {
     "valid": false,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "綜藝",
     "quality_score": 62
@@ -208992,7 +208992,7 @@
   },
   "https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -210718,7 +210718,7 @@
   },
   "https://t.freetv.fun/live/cctv14shao-er-3.m3u8": {
     "valid": true,
-    "last_validated": "2026-04-26",
+    "last_validated": "2026-05-03",
     "tier": "china",
     "source": "兒童",
     "quality_score": 62
@@ -216510,7 +216510,7 @@
   },
   "https://t.freetv.fun/live/tvbfei-cui.php": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "電影",
     "quality_score": 62
@@ -216678,14 +216678,14 @@
   },
   "http://o11.163189.xyz/stream/tvb/mzt/": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
   },
   "http://o11.163189.xyz/stream/tvb/fct4k/": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 100
@@ -216758,7 +216758,7 @@
   },
   "http://mytv.cdn.loc.cc/o12.php?id=mzt": {
     "valid": true,
-    "last_validated": "2026-05-02",
+    "last_validated": "2026-05-03",
     "tier": "hk_tw_mo",
     "source": "港澳台",
     "quality_score": 62
@@ -220801,6 +220801,869 @@
     "last_validated": "2026-05-02",
     "tier": "global",
     "source": "地方频道",
+    "quality_score": 62
+  },
+  "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General;News",
+    "quality_score": 92
+  },
+  "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Movies",
+    "quality_score": 92
+  },
+  "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0780&tk=f6cc1e0a0e1a": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "hk_tw_mo",
+    "source": "特色",
+    "quality_score": 0,
+    "reason": "proxy_blocked"
+  },
+  "http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3217&tk=a0c4f6cfaba3": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "hk_tw_mo",
+    "source": "特色",
+    "quality_score": 0,
+    "reason": "proxy_blocked"
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=20260502040207697b08dea43645ce867c479136ec8c2e&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20260502040207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=171.8.79.254&SecurityKey=20260502040207&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3bfa95274e902d9d4e62066d18f831af": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/fox-sports-1.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "運動",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=2026050210020797eba02d7c16476183d8013bdcb60a6a&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260502100207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=171.8.79.254&SecurityKey=20260502100207&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7a790c19fba41a1b12870060def32938": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTkyMWY0YWE1MzJkMGQ4NWQ3OTAyN2U0MDk4NGE1NDFjJnVpZD0mdXVpZD1kMjQ0ZmIxMGVkM2M5ZmMzMzk1OThkMTU2ZDg1NzNjZS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3NzczNjcx/CSXWMPP360.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南频道",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/8c96dacd459275897c50505efcc98eb0fba9651b29bea1fe3c380f42d6725ce0.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://85.237.207.150:50007/of-media-live073/index.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "港澳台",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/fox-deportes-1.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "運動",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/netmax-tv.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "知識",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=20260503040223d3db29cbffe248c09dfb78d84214082d&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260503040223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20260503040223&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e20556a15c5a5328d45d64881a57f79d": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "戏曲频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=202605020402107498f6edf54a4e49a0593a12b0ebac78&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20260502040210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20260502040210&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d1c8e0db5334c504a214a264eba7f1bf": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "陕西频道",
+    "quality_score": 62
+  },
+  "http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1777784615-7f41bececd2fac97924d24b2180085cd-0-04175f9ce4071dd9289e604cdf929d19": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视台",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/b786ec1800a5643b2d5d40858739023ccedfe27bc149fa6eee46de30f0897b5f.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "運動",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/hu-nan-yu-le-7.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜藝",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ntxwzh/50/20250604/index.m3u8?msisdn=20260503040217ce7a4fc1b12744f8978500f5101f3180&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260503040217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260503040217&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0c3b4a15ad2ec9c5168c18d07cd2fc02": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTZkYzdjYjQxNGEyMzE3ZmUxZGEyYzQzNzY4NGU1MjNlJnVpZD0mdXVpZD03YjA4M2U3ZGNiNTFmYTgxNTQ0NWE5MTAwNzRkMjE4OS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3ODA2MDI3/HNYLMPP360.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/star-kentrikis-elladas.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=20260503020212eb97dcf6589a413082717861a3422ef9&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260503020212&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=171.8.79.254&SecurityKey=20260503020212&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2ab9892323c335015b3913d036937cb0": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20260502060207f664b53f6ce349b8a67177cf6bd6bad4&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260502060207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=171.8.79.254&SecurityKey=20260502060207&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2dc147336956d5b3d239ae6263aa8c7a": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=20260502080208c2d7f381facf4333b51211f1376fd09f&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20260502080208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=171.8.79.254&SecurityKey=20260502080208&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8d87f7a4c984eedd4d126e2246bb1fe2": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ntxwzh/50/20250604/index.m3u8?msisdn=20260502080209ae37c829f7654744a1197f7060abe658&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260502080209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260502080209&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2ba319e910cfa9d4cb49ebaf01aa1c38": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=2026050204020659f6197aa82042198e40a97e9cfa0979&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20260502040206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260502040206&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a6c7f7c7da00d736e736ed4895992558": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "上海频道",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/rede-globo.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/hu-nan-du-shi-4.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=202605030400313d44489fbdce4900aa30f84ac1fa7fa4&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260503040031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=175.178.121.127&SecurityKey=20260503040031&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8328e8393c8fd4532942f6618332bf04&ddCalcu=4803ef20b892e0383389136c68ff2d449523": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "山东频道",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTNiZTE4NTUzYTU0YWY3MGY3NDUyMjk5MTMyMTQ5YTQ1JnVpZD0mdXVpZD01OWZhOWZjZDdjODE2YjUzYTk2MjM0Y2NjYTU1Mzk3OC02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3NzczMzM1/HNJSMPP360.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/50/20250604/index.m3u8?msisdn=202605030402174596f6bfec7c4bbea7f9e76de0a7c3aa&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260503040217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260503040217&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cb858e5a2470d09488d8ac6dca2399b6": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=2026050208021270e56a5b055d4a58a741aabb45ade53b&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260502080212&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=171.8.79.254&SecurityKey=20260502080212&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31e6b365497b4d50a3640a6b2ab9145b": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "山东频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=202605020402075814820607bc452ca2bd12ccf7978d54&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20260502040207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=171.8.79.254&SecurityKey=20260502040207&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9830094b996f216e774939274ff0f8da": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/50/20251225/index.m3u8?msisdn=202605030402238cd45be1e4a246b290fb961a9aa97759&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260503040223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=171.8.79.254&SecurityKey=20260503040223&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cc598a2c6017332a6d24338c187a2233": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "儿童频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/haixiaws/50/20230724/index.m3u8?msisdn=20260503040213d088690060624684a68ab95136f1ab51&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260503040213&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=171.8.79.254&SecurityKey=20260503040213&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e4b7f50a0c9da0d07e1c2c4000a5da38": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=20260502080210fb4c02d24f604357ab536630351dd1ab&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20260502080210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20260502080210&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=46619878bf38de64747331ea22a57f8d": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "陕西频道",
+    "quality_score": 62
+  },
+  "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=8176f6cb8cf46b6a37b7afc0e695fd35&wsTime=1777701635": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "戏曲频道",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/21a19d92a4a8f9ba68c6597c683a7dd1fa666a8f4ece49e3de495f199d6e9612.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/50/20250804/index.m3u8?msisdn=20260502040210ab5ee3dc38204797802c73480496f335&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260502040210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20260502040210&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ab5438f73fb58a0bc5fd795040ee948f": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "陕西频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20260502040203d9ce7570f4ab4817940af0584b0e852a&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260502040203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20260502040203&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e74e7236a7ec6d09524683ad13ad746": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "陕西频道",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/86b0fa6f27036be714a65a8bb919a1c7555bde4a9317fd414b05a67154bea7ac.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=20260503040220efcfae5fc2a2402aa19b66abf7c44787&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260503040220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=171.8.79.254&SecurityKey=20260503040220&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a21a7897cead645e7b877370195a4d81": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "山东频道",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/8b45d878d25b2c5063a086981e0adbec0265605c14f3a2528b879a95cbdb6c2b.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=202605030402161f9894e90b86450e807df1df436f6018&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20260503040216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=171.8.79.254&SecurityKey=20260503040216&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=366786e7d40460ea58a72e05a63a18a5": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=20260503020026a935099c6d1847d795b873a3e0c82b4e&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260503020026&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=175.178.121.127&SecurityKey=20260503020026&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=33e660d943676c432a8bcc3944accd9d&ddCalcu=d393ede0c63c60a04d499433c6c7b68ca423": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=76b0835a9dd749f8e98c2274723b00be&wsTime=1777687166": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "河南频道",
+    "quality_score": 62
+  },
+  "http://85.237.207.150:50007/of-media-live072/index.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "港澳台",
+    "quality_score": 62
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=202605030200198e377b69783a4d45aa0c9aebc1f6e1ad&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260503020019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=175.178.121.127&SecurityKey=20260503020019&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4f57a7a1d9f8142ef6c6e1f6a2e0245b&ddCalcu=b45fe4502740a0e72aa16df91fe861c462fe": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/ecc56b164601abd606b4fce3a00e2306edc6778799c53ed3caabe036f9612ea9.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜藝",
+    "quality_score": 62
+  },
+  "http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=85d0f724d354edb5de459926bdc5e09f&wsTime=1777687166": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "河南频道",
+    "quality_score": 62
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=202605030200269670e01b29c34c139468da124afcffc3&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260503020026&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=175.178.121.127&SecurityKey=20260503020026&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=233931e18a97db3e9a093d6660c7115e&ddCalcu=e253e130193730c10e61686ad9379d0ba39e": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/50/20250604/index.m3u8?msisdn=20260502080209b258968783b84f3990e56ab5f7dcf806&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260502080209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260502080209&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1170ec275475eff9012b0b78e48eeaed": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/50/20250804/index.m3u8?msisdn=2026050208021020a000140a7b480da10e4b7fb9774d50&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260502080210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20260502080210&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1657cd81fb40d71a068723536e0ed888": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "陕西频道",
+    "quality_score": 62
+  },
+  "srt://stream.alabbassia.com:8890?mode=caller&latency=200&streamid=read:live/alabbassia": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Religious",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPThmYWY5MjdkZGMyOWY3Yjc5ZjE0YmFhOTE3MDAzYzNmJnVpZD0mdXVpZD0yZDgyMzI5NDc0ODhiZGU4Y2Y2Zjc0OTNjNDZiMDFiMi02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3Nzg4MjMz/HNGJMPP360.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTJhZGMyNDk5ZjdlMjRmNDBiOWY3ZTNmYmM2NmM0NjZhJnVpZD0mdXVpZD0zOGI4ODBjZTYyZjdlYTU4YjE5Y2Q2ZjdkODVmNzJhMi02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3ODAyOTQ5/HNJSMPP360.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20260502100207c93fff0195e34e35867a072fda4a23ab&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260502100207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=171.8.79.254&SecurityKey=20260502100207&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2c6ae99dae931871c9a5820dc388da34": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=20260503020027c7ae1f11a611477ba16fc13c775a30f3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260503020027&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=175.178.121.127&SecurityKey=20260503020027&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e87179984dec9c961a34be4455dfde6a&ddCalcu=ae68ee70d13f70d95958444deebc493ca916": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=20260502080215e18b492a185b4f7489822b955d609e08&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260502080215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20260502080215&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=748e3c81df4ce7744684f9979157557f": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "戏曲频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20260502080203d9ae6e1e57014020a31e4531fce97864&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260502080203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20260502080203&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=29700b355fd3b276f56dc6a887b584d4": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "陕西频道",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/c9n.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "兒童",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=202605020802073f1bd396a61e4e959a5d0bb864250fff&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20260502080207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=171.8.79.254&SecurityKey=20260502080207&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d430eb047405bb8b1a3e55bd322d6263": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=20260503040220c3d3c25457d94532bae64ab120ecc32d&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260503040220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20260503040220&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=53b0b9b7118448bc0261ba33b0733f64": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/45d51c52998fc6ab62573bdd712b4ebc7a6c8fd615e7a8d4d2f2a5b98339148c.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "兒童",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20260503040220667babfde6604e5485427dee906ef4a6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260503040220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20260503040220&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fd4b76bf3a6a50b2e6ec79f36f03f7e0": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/epirus-tv1.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTU4MGYxYmJkYzU5MDk0MTRkMDEwMTI2OGE4NGRlZDRjJnVpZD0mdXVpZD1kZDE0NDAzNmM4MTdiNzEzZDMxNTc0NWQ5Y2JhYzQyMy02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3Nzk2MDMw/HNGGMPP360.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/c70bdd34e4df8d4813d6c785a8967191453215bcde8b72ab4801aabe4ce5fd74.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=20260503040220183ff15e31c34d0d872c4e4b837ef99a&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260503040220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20260503040220&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1350d5ba2f1d4892c8a232cdcb8dfd29": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=202605020402057c1243a4fb784b639c64a5765e00d69d&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260502040205&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20260502040205&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a6eff856d7e041d81c22309603229d1": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=202605020802079c16d9847ea543dd9bcdeeb2c00e8251&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20260502080207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=171.8.79.254&SecurityKey=20260502080207&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=33169872de63a9b02a28bbf0f1fabb43": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777806000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0dd16cf6a1d570c8f4133c16c4db4cdc&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/50/20230724/index.m3u8?msisdn=20260503040026a5fc2f4a187144aa985e6e47e4a95dbb&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260503040026&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=175.178.121.127&SecurityKey=20260503040026&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3d341a6039faca77af947d627708a90d&ddCalcu=d30de930a498100a76702369df7a4c9af7a7": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTNjNDUyZDRhZjgxNzllMWRkOTA1YzQ4NzYyZWY4NzZjJnVpZD0mdXVpZD1mZTkzNjU0N2NkNTU3OTU3NjI0YmMyM2M1NGM2MDMwZS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3NzY2MTE0/HNGGMPP360.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20260503020211bdc631390e71473dae2a4ec660b9abd4&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260503020211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=171.8.79.254&SecurityKey=20260503020211&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=060c7402645b7dbfd44d70ecee124a17": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=20260502060207fde0b64b27634b99ae78ee8beb297d3d&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260502060207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=171.8.79.254&SecurityKey=20260502060207&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bbfa06080af52026f8eca3c16ceb0ba7": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/50/20251225/index.m3u8?msisdn=2026050208021583dc20ee15bb4757a38926c68b23bd7b&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260502080215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=171.8.79.254&SecurityKey=20260502080215&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff26e0aeda914757cdf4847cf5305c79": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "儿童频道",
+    "quality_score": 62
+  },
+  "http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=2026050208020795f3989b5bf24b1cb42a3f8f1a0d7c3a&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20260502080207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=171.8.79.254&SecurityKey=20260502080207&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=95a6caa35d4219cb81df6ffdc73b68b5": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "江苏频道",
+    "quality_score": 62
+  },
+  "http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz05ZWZkOWQ2YTFmN2U0NWE0NjZmMDJhNTBmZjFjY2YzOCZ1aWQ9JnV1aWQ9MjM0NTNhM2YyZTQyZjhiYTNhMjVhMGM3OTFjOWU0ZWMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3Nzc1OTI2MA,,/HNGJMPP360.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "湖南频道",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/zhe-jiang-min-sheng-xiu-xian-3.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/top-channel.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "綜合",
+    "quality_score": 62
+  },
+  "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1c65b0bf5d9faa1088100280e97b2c85&wsTime=1777766303": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "戏曲频道",
+    "quality_score": 62
+  },
+  "http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz0wYjYyOWE4MWM2NjEwZTFhNjA0ZmUzZGQ0ODU1ZmQ1OCZ1aWQ9JnV1aWQ9M2FkY2I1N2NkN2U0Y2ZkYmY1ZmFmMTIzNjgwMjBkYmItNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3NzgxMzIxOQ,,/HNDSMPP360.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWJhODU1Nzk4MzRiYWVkNzFiNDczOWVmMGFlOTBiMjg5JnVpZD0mdXVpZD0xMmFjZmNhYjJhMWQ3NDY0NWM2YjkyYzJlZWQyNDhjZS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3ODEzMjQ2/JYKTMPP360.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTIzMjg3ZTkxYWEwZTg4NTIzOWJkZDI4MTAzOTEzZjU3JnVpZD0mdXVpZD02ZDgzNTQzMjUxZjVjYTE4Y2MyZjk1M2JiN2Y3MjAyNS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc3ODAyNDc2/CSXWMPP360.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "https://t.freetv.fun/live/al24-news.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "新聞",
+    "quality_score": 62
+  },
+  "http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz0yMjk3ZGRiMTFmMDIwOTFiYTcwYjNlNjkxMDc2MTNiNSZ1aWQ9JnV1aWQ9ZWQzZmU0YTk4YTFmZDNjNmM1MTYzZjY0MTg1OWQ0MDYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3Nzc5NjgzNg,,/HNDSJMPP360.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "湖南台",
+    "quality_score": 62
+  },
+  "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "News",
+    "quality_score": 62
+  },
+  "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1777841100-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6efccbce26bf871d4cacff58e6041eb6&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "央视台",
+    "quality_score": 62
+  },
+  "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777841100-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6fe0f17fcf2a5fd4f91fa04f9ddde9b7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "央视台",
+    "quality_score": 62
+  },
+  "https://server.gointernet.gr/live/livestream.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "News",
+    "quality_score": 62
+  },
+  "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2e31065a9b8fbd41d087a20655cefcdf&wsTime=1777802069": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视台",
+    "quality_score": 62
+  },
+  "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Sports",
+    "quality_score": 62
+  },
+  "https://stream1.freetv.fun/a1aceb66dd3443fe3f5db2c3fac077b0cb0f005845310ccce3fb0e016df76d49.ctv": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "新聞",
+    "quality_score": 62
+  },
+  "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Sports",
+    "quality_score": 62
+  },
+  "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Sports",
+    "quality_score": 62
+  },
+  "https://rtmp.win:3929/live/epiruslive.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General",
+    "quality_score": 62
+  },
+  "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "hk_tw_mo",
+    "source": "Undefined",
+    "quality_score": 62
+  },
+  "https://mercury.32bit.gr:19360/formediatv/720p.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "News",
+    "quality_score": 62
+  },
+  "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General",
+    "quality_score": 62
+  },
+  "http://stream.snrtv.com/sxbc-star-hksuLQ.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视台",
+    "quality_score": 62
+  },
+  "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Music",
+    "quality_score": 62
+  },
+  "https://rtmp.win:3793/live/mesogeiostvlive.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General",
+    "quality_score": 62
+  },
+  "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Entertainment",
+    "quality_score": 62
+  },
+  "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General",
+    "quality_score": 62
+  },
+  "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General",
+    "quality_score": 62
+  },
+  "http://182.150.23.74:808/hls/25/index.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Music",
+    "quality_score": 62
+  },
+  "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General",
+    "quality_score": 62
+  },
+  "https://verginanews.gr:8443/hls_live/stream1.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Entertainment;News",
+    "quality_score": 62
+  },
+  "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Music",
+    "quality_score": 62
+  },
+  "http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777827600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f0ab4f6b91d429efbfa4a8661f5f20a7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "china",
+    "source": "特色",
+    "quality_score": 62
+  },
+  "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Hong Kong",
+    "quality_score": 62
+  },
+  "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0910ca35b6fd347a82ffec89fb3c63a4": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "央视台",
+    "quality_score": 62
+  },
+  "https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=18165b20ecaa01415d2aa27c044950db": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "特色",
+    "quality_score": 62
+  },
+  "http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202605031334/app_2/_definst_/ls_2.stream/chunklist.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视台",
+    "quality_score": 62
+  },
+  "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "General",
+    "quality_score": 62
+  },
+  "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "News",
+    "quality_score": 62
+  },
+  "http://222.169.85.8:9901/tsfile/live/0135_1.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "http://222.169.85.8:9901/tsfile/live/0119_1.m3u8": {
+    "valid": true,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视频道",
+    "quality_score": 62
+  },
+  "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "Music",
+    "quality_score": 62
+  },
+  "https://sztv-hls.sztv.com.cn/AxeFRth/500/y17Afe0.m3u8?sign=1f98f98cabbd129f2f44dae92d1bcb16&t=69f6f296": {
+    "valid": false,
+    "last_validated": "2026-05-03",
+    "tier": "global",
+    "source": "卫视台",
     "quality_score": 62
   }
 }
