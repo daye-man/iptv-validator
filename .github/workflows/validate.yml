@@ -26,7 +26,7 @@ jobs:
       - name: Checkout iptv-scraper (read-only, 获取 filtered)
         uses: actions/checkout@v4
         with:
-          repository: xJEYDAin/iptv-scraper
+          repository: daye-man/iptv-scraper
           path: iptv-scraper
           fetch-depth: 1
 
