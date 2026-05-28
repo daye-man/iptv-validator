@@ -60,7 +60,7 @@ jobs:
         run: |
           git config --local user.name "iptv-validator"
           git config --local user.email "validator@iptv"
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/xJEYDAin/iptv-validator.git"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/daye-man/iptv-validator.git"
           git add -f cache/validation_cache.json
           git commit -m "Update validation cache: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push origin main
